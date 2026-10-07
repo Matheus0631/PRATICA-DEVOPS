@@ -1,1 +1,1 @@
-# PRATICA-DEVOPS
+# Criando o repósitorio para os futuros projetos da disciplina 
