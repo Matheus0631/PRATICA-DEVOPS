@@ -55,3 +55,4 @@ jobs:
         with:
           target: 'http://localhost:3000/HelloWorld.html'
           fail_action: false
+          name: zap-report
